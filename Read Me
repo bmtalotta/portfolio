@@ -16,7 +16,7 @@ Previous Projects:
     Description:This is a Unity application that simulates an All-Terrain Vehicle (ATV), and is designed to be usable via either VR (SteamVR) or WebGL. this application
       was developed with the intent to be used as a safety training software in the Alaska school system. The application prioritizes realistic physics to be used with the ATVs.
     Link: the webgl version is available to be played with here. https://olawlor.github.io/AK_ATV/ one thing to note is that the webgl version has limited performence due to
-      streaming the game directly to you. instead of downloading it.
+      streaming the game directly to you. instead of downloading it. the code is available to be viewed here: https://github.com/olawlor/AK_ATV.
     
     
     
